@@ -1,0 +1,72 @@
+C:\Users\user\AppData\Local\Temporary Projects\webcamapplit\bin\Debug\webcamapplit.exe
+C:\Users\user\AppData\Local\Temporary Projects\webcamapplit\bin\Debug\webcamapplit.pdb
+C:\Users\user\AppData\Local\Temporary Projects\webcamapplit\bin\Debug\webcamapplit.xml
+C:\Users\user\AppData\Local\Temporary Projects\webcamapplit\obj\x86\Debug\webcamapplit.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\webcamapplit\obj\x86\Debug\webcamapplit.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\webcamapplit\obj\x86\Debug\webcamapplit.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\webcamapplit\obj\x86\Debug\webcamapplit.exe
+C:\Users\user\AppData\Local\Temporary Projects\webcamapplit\obj\x86\Debug\webcamapplit.xml
+C:\Users\user\AppData\Local\Temporary Projects\webcamapplit\obj\x86\Debug\webcamapplit.pdb
+C:\Users\user\Desktop\courvb\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.exe
+C:\Users\user\Desktop\courvb\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.xml
+C:\Users\user\Desktop\courvb\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.pdb
+C:\Users\user\Desktop\courvb\webcamapplit\webcamapplit\bin\Debug\webcamapplit.exe
+C:\Users\user\Desktop\courvb\webcamapplit\webcamapplit\bin\Debug\webcamapplit.pdb
+C:\Users\user\Desktop\courvb\webcamapplit\webcamapplit\bin\Debug\webcamapplit.xml
+C:\Users\user\Desktop\courvb\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.Resources.resources
+C:\Users\user\Desktop\courvb\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\courvb\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.frmacceuille.resources
+C:\Users\user\Desktop\courvb\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.Frmpageacceuille.resources
+C:\Users\user\Desktop\courvb\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.Frmdescription.resources
+C:\Users\user\Desktop\courvb\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.frmpresentation.resources
+C:\Users\user\Desktop\courvb\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.frmwebcam.resources
+C:\Users\user\Desktop\courvb\webcamapplit\webcamapplit\bin\Debug\AForge.dll
+C:\Users\user\Desktop\courvb\webcamapplit\webcamapplit\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\user\Desktop\courvb\webcamapplit\webcamapplit\bin\Debug\AForge.Video.dll
+C:\Users\user\Desktop\courvb\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\courvb\webcamapplit\webcamapplit\bin\Debug\webcamapplit.exe.config
+C:\Users\riccardomojieyie\Desktop\ecole\webcamapplit\webcamapplit\bin\Debug\webcamapplit.exe.config
+C:\Users\riccardomojieyie\Desktop\ecole\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.exe
+C:\Users\riccardomojieyie\Desktop\ecole\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.xml
+C:\Users\riccardomojieyie\Desktop\ecole\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.pdb
+C:\Users\riccardomojieyie\Desktop\ecole\webcamapplit\webcamapplit\bin\Debug\webcamapplit.exe
+C:\Users\riccardomojieyie\Desktop\ecole\webcamapplit\webcamapplit\bin\Debug\webcamapplit.pdb
+C:\Users\riccardomojieyie\Desktop\ecole\webcamapplit\webcamapplit\bin\Debug\webcamapplit.xml
+C:\Users\riccardomojieyie\Desktop\ecole\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.vbprojResolveAssemblyReference.cache
+C:\Users\riccardomojieyie\Desktop\ecole\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.frmpresentation.resources
+C:\Users\riccardomojieyie\Desktop\ecole\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.frmacceuille.resources
+C:\Users\riccardomojieyie\Desktop\ecole\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.Frmdescription.resources
+C:\Users\riccardomojieyie\Desktop\ecole\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.Frmpageacceuille.resources
+C:\Users\riccardomojieyie\Desktop\ecole\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.frmwebcam.resources
+C:\Users\riccardomojieyie\Desktop\ecole\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.Resources.resources
+C:\Users\riccardomojieyie\Desktop\ecole\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.vbproj.GenerateResource.Cache
+C:\Users\armel\Desktop\webcamapplit\webcamapplit\bin\Debug\webcamapplit.exe.config
+C:\Users\armel\Desktop\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.exe
+C:\Users\armel\Desktop\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.xml
+C:\Users\armel\Desktop\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.pdb
+C:\Users\armel\Desktop\webcamapplit\webcamapplit\bin\Debug\webcamapplit.exe
+C:\Users\armel\Desktop\webcamapplit\webcamapplit\bin\Debug\webcamapplit.pdb
+C:\Users\armel\Desktop\webcamapplit\webcamapplit\bin\Debug\webcamapplit.xml
+C:\Users\armel\Desktop\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.vbprojResolveAssemblyReference.cache
+C:\Users\armel\Desktop\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.frmpresentation.resources
+C:\Users\armel\Desktop\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.frmacceuille.resources
+C:\Users\armel\Desktop\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.Frmdescription.resources
+C:\Users\armel\Desktop\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.Frmpageacceuille.resources
+C:\Users\armel\Desktop\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.frmwebcam.resources
+C:\Users\armel\Desktop\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.Resources.resources
+C:\Users\armel\Desktop\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.vbproj.GenerateResource.Cache
+D:\PROGRAMMATION\webcamapplit\webcamapplit\bin\Debug\webcamapplit.exe.config
+D:\PROGRAMMATION\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.exe
+D:\PROGRAMMATION\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.xml
+D:\PROGRAMMATION\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.pdb
+D:\PROGRAMMATION\webcamapplit\webcamapplit\bin\Debug\webcamapplit.exe
+D:\PROGRAMMATION\webcamapplit\webcamapplit\bin\Debug\webcamapplit.pdb
+D:\PROGRAMMATION\webcamapplit\webcamapplit\bin\Debug\webcamapplit.xml
+D:\PROGRAMMATION\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.vbprojResolveAssemblyReference.cache
+D:\PROGRAMMATION\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.frmpresentation.resources
+D:\PROGRAMMATION\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.frmacceuille.resources
+D:\PROGRAMMATION\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.Frmdescription.resources
+D:\PROGRAMMATION\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.Frmpageacceuille.resources
+D:\PROGRAMMATION\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.frmwebcam.resources
+D:\PROGRAMMATION\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.Resources.resources
+D:\PROGRAMMATION\webcamapplit\webcamapplit\obj\x86\Debug\webcamapplit.vbproj.GenerateResource.Cache
